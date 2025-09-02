@@ -1,0 +1,17 @@
+MIT License
+
+Copyright (c) 2025 AKERMI Amen Allah (PharmaTrack)
+
+The software PharmaTrack and all associated files (the “Software”) are the exclusive property of AKERMI Amen Allah.
+
+No person or organization is permitted to copy, modify, distribute, publish, sell, or use the Software, in whole or in part, without the explicit written permission of AKERMI Amen Allah.
+
+The Software is provided “as-is,” without any warranties, express or implied. AKERMI Amen Allah shall not be liable for any damages arising from the use of the Software.
+
+Only AKERMI Amen Allah is authorized to:
+
+modify, update, or improve the Software
+
+publish or distribute the Software
+
+grant licenses to third parties
